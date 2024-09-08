@@ -76,4 +76,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Contributions are welcome! If you find any issues or want to add new features, feel free to fork the repository and submit a pull request.
 
 ## Author
-**Shuhain** - [GitHub](https://github.com/yourusername)
+**Shuhain** - [GitHub](https://github.com/shuhain)
