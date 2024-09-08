@@ -82,3 +82,6 @@ Contributions are welcome! If you find any issues or want to add new features, f
 
 ## 👤 Author
 **Shuhain** - [GitHub](https://github.com/shuhain)
+
+## 📢 Hashtags
+#SerialDataLogger #OpenSource #GoLang #ArduinoProjects #EmbeddedSystems #SerialCommunication #IoT #DataLogging #SoftwareDevelopment #USBCommunication #RealTimeData #RaspberryPi #DataAnalysis #CSVLogger
